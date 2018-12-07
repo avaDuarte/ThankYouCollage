@@ -121,6 +121,4 @@ endShape();
 
 ellipse(425,468,27,22);
 
-save("angelique2.png");
-
 }
