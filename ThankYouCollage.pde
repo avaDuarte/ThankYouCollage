@@ -1,4 +1,4 @@
-//add thank you code here
+/* @pjs preload="tupac.png, gasp.png"; */ 
 float ball=10;
 float circleX=10; 
 float speed=10;
